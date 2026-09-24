@@ -8,7 +8,7 @@ An exploratory data analysis tool built in Python to analyze NBA player statisti
 
 ## 🛠️ Tech Stack
 - **Language:** Python
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Libraries:** Pandas, NumPy, Matplotlib
 - **Environment:** Jupyter Notebook / VS Code
 
 ## 🚀 How to Run
